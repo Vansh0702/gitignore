@@ -2,3 +2,6 @@
 .env
 .env.*
 !.env.example
+
+#node.js dependencies
+node_modules/
