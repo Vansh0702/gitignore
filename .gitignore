@@ -1,0 +1,4 @@
+# envionment variable and secrets
+.env
+.env.*
+!.env.example
